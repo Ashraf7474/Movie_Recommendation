@@ -20,6 +20,12 @@ Utilize web scraping libraries (e.g., Beautiful Soup,) to extract information on
 
 Collect data on movie titles, ratings, genres, release dates, and other relevant attributes.
 
+# Web Scraping Code
+![im4](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/badcd758-f4f5-409f-8637-19d5c0cc046c)
+![im5](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/8f0d556b-93f0-47c0-bdab-e33bb2cef457)
+
+
+
 # Data Cleaning and Preprocessing
 
 Handle missing or inconsistent data.
@@ -27,6 +33,8 @@ Handle missing or inconsistent data.
 Standardize data formats and units.
 
 Remove duplicates and irrelevant information
+
+
 
 # Exploratory Data Analysis (EDA)
 
