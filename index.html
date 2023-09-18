@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Movie Recommendation</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Movie Recommendation</h1>
+    <form method="POST">
+        <label for="year">Year:</label>
+        <input type="number" id="year" name="year"><br>
+
+        <label for="genre">Genre:</label>
+        <input type="text" id="genre" name="genre"><br>
+
+        <label for="certificate">Certificate:</label>
+        <input type="text" id="certificate" name="certificate"><br>
+
+        <label for="stars">Stars:</label>
+        <input type="text" id="stars" name="stars"><br>
+
+        <button type="submit">Get Recommendations</button>
+    </form>
+
+    <h2>Recommended Movies</h2>
+    <table>
+        <thead>
+            <tr>
+                <th>Image Link</th>
+                <th>Name of movie</th>
+                <th>Year of release</th>
+                <th>Genre</th>
+                <th>Stars</th>
+                <th>Description</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% if recommended_movies %}
+                {% for index, movie in recommended_movies.iterrows() %}
+                    <tr>
+                        <td>{{ movie['Image Link'] }}</td>
+                        <td>{{ movie['Name of movie'] }}</td>
+                        <td>{{ movie['Year of release'] }}</td>
+                        <td>{{ movie['Genre'] }}</td>
+                        <td>{{ movie['Stars'] }}</td>
+                        <td>{{ movie['Description'] }}</td>
+                    </tr>
+                {% endfor %}
+            {% else %}
+                <tr>
+                    <td colspan="6">No recommendations found.</td>
+                </tr>
+            {% endif %}
+        </tbody>
+    </table>
+</body>
+</html>
