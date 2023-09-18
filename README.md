@@ -114,6 +114,32 @@ Display movie recommendations based on user input.
 By completing this project, we will collect and analyze data on top IMDb movies and provide a valuable tool for users to discover and explore movies tailored to their preferences. The recommendation system and web page will enhance the user experience and offer actionable insights to the movie industry.
 
 
+# Dashboard
+
+![im20](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/3e9bb180-7f86-421e-8720-7d039b1968a5)
+
+# Insights
+![im22](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/24ffc0d0-a8b9-4b1e-8f7f-66ceb9b54742)
+![im25](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/020711c3-f230-4ca9-a8e6-3250feb116aa)
+
+# Consulation
+
+![im24](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/c5250a72-e593-4393-aacc-c61864106fb2)
+
+# Challenges Faced
+![im26](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/4d621362-b9e6-46ec-bc20-7dfeaa54786c)
+
+# End
+
+![im28](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/5d09daee-c015-4bc8-ae24-a2f180122a15)
+
+
+
+
+
+
+
+
 
 
 
