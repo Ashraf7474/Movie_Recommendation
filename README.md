@@ -34,6 +34,8 @@ Standardize data formats and units.
 
 Remove duplicates and irrelevant information
 
+# Data Cleaning and Preprocessing(Snapshot)
+
 ![im6](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/5a0e926c-c214-4e6c-9b2a-fb78158c1dd6)
 ![im7](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/061b6246-31d6-41b0-8256-f9c42c4dd626)
 ![im8](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/f9d911d8-152a-43ad-9bed-0e44851a1033)
@@ -47,6 +49,8 @@ Visualize the distribution of movie ratings, genres, and release years.
 Identify trends, correlations, and outliers.
 
 Explore factors affecting movie ratings, such as genre or director.
+
+# Different Aggeration and KIPs
 
 # Distribution of Ratings
 ![im9](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/f5a06f09-5e4d-49f0-bcb8-21952cc010d3)
@@ -82,7 +86,7 @@ Allow users to input their preferences (e.g., favorite genres, actors, Year , Ce
 
 Recommend movies based on user input and historical IMDb data.
 
-# Movie Recommadtion Code
+# Movie Recommadtion Code(Snapshot)
 ![im17](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/ac51534f-01a1-4060-938e-86be526c84e8)
 
 
@@ -97,15 +101,15 @@ Implement an interface for users to input their preferences.
 Display movie recommendations based on user input.
 
 # web page(snapshot)
-![Uploading image.png…]()
-![Uploading image.png…]()
 
-
+![im18](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/288a1e3f-47a1-4358-b153-3e53de9bc418)
 
 
 # Conclusion
 
-By completing this project, we will not only collect and analyze data on top IMDb movies but also provide a valuable tool for users to discover and explore movies tailored to their preferences. The recommendation system and web page will enhance the user experience and provide actionable insights for the movie industry.
+By completing this project, we will collect and analyze data on top IMDb movies and provide a valuable tool for users to discover and explore movies tailored to their preferences. The recommendation system and web page will enhance the user experience and offer actionable insights to the movie industry.
+
+
 
 
 
