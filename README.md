@@ -34,6 +34,10 @@ Standardize data formats and units.
 
 Remove duplicates and irrelevant information
 
+![im6](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/5a0e926c-c214-4e6c-9b2a-fb78158c1dd6)
+![im7](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/061b6246-31d6-41b0-8256-f9c42c4dd626)
+![im8](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/f9d911d8-152a-43ad-9bed-0e44851a1033)
+
 
 
 # Exploratory Data Analysis (EDA)
@@ -44,6 +48,32 @@ Identify trends, correlations, and outliers.
 
 Explore factors affecting movie ratings, such as genre or director.
 
+# Distribution of Ratings
+![im9](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/f5a06f09-5e4d-49f0-bcb8-21952cc010d3)
+
+# Correlation Heatmap
+![im10](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/47f532cc-f8ed-4da6-b8f8-b6e46a7a5f73)
+
+# word cloud of movie descriptions
+![im11](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/a46fe29d-583a-4c82-be48-d2aa12a5de03)
+
+# Count of Movies by Certificate
+![im12](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/6aef822c-7c76-480e-b99b-1b5e0accd28b)
+
+# Top 10 Directors with Most Movies
+![im13](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/c9d0dd14-ea4c-4054-9b14-82c1d6244115)
+
+# Year-wise Total Gross Revenue
+![im14](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/2940add5-d531-436c-9e29-db93bea84d0f)
+
+# Distribution of Rating Categories
+![im16](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/d7b2977a-4f69-4c24-9fb1-5da106c403aa)
+
+
+
+
+
+
 # Movie Recommendation System
 
 Develop a recommendation system using techniques like collaborative filtering or content-based filtering.
@@ -52,6 +82,12 @@ Allow users to input their preferences (e.g., favorite genres, actors, Year , Ce
 
 Recommend movies based on user input and historical IMDb data.
 
+# Movie Recommadtion Code
+![im17](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/ac51534f-01a1-4060-938e-86be526c84e8)
+
+
+
+
 # Web Page Development
 
 Create a user-friendly web page for movie searching and recommendations.
@@ -59,6 +95,13 @@ Create a user-friendly web page for movie searching and recommendations.
 Implement an interface for users to input their preferences.
 
 Display movie recommendations based on user input.
+
+# web page(snapshot)
+![Uploading image.png…]()
+![Uploading image.png…]()
+
+
+
 
 # Conclusion
 
