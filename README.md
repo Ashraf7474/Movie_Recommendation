@@ -92,6 +92,8 @@ Recommend movies based on user input and historical IMDb data.
 
 
 
+
+
 # Web Page Development
 
 Create a user-friendly web page for movie searching and recommendations.
@@ -103,6 +105,8 @@ Display movie recommendations based on user input.
 # web page(snapshot)
 
 ![im18](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/288a1e3f-47a1-4358-b153-3e53de9bc418)
+![im19](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/2d51a45f-5b64-4269-aaf2-12866227d6f8)
+
 
 
 # Conclusion
