@@ -122,7 +122,7 @@ By completing this project, we will collect and analyze data on top IMDb movies 
 ![im22](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/24ffc0d0-a8b9-4b1e-8f7f-66ceb9b54742)
 ![im25](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/020711c3-f230-4ca9-a8e6-3250feb116aa)
 
-# Consulation
+# Conclusion
 
 ![im24](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/c5250a72-e593-4393-aacc-c61864106fb2)
 
