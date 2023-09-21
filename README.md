@@ -31,7 +31,7 @@ Collect data on movie titles, ratings, genres, release dates, and other relevant
 
 
 # Data Cleaning and Preprocessing
-
+ 
 Handle missing or inconsistent data.
 
 Standardize data formats and units.
