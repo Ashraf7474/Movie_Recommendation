@@ -8,7 +8,7 @@
 ![Capture30](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/af1c0556-001f-40ef-ac5b-a18125a29407)
 
 
-# Primary Objective
+# Primary Objective 
 
 we aim to collect data on the top-rated movies from IMDb using web scraping techniques. We will then proceed to clean and preprocess this data for analysis. Subsequently, we will conduct Exploratory Data Analysis (EDA) to gain insights from the dataset. Finally, we will use the insights obtained to develop a movie recommendation system and create a web page to facilitate user movie searches based on their preferences.
 
