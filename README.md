@@ -18,29 +18,18 @@ we aim to collect data on the top-rated movies from IMDb using web scraping tech
 
 # Project Phases
 
-Data Acquisition & Cleaning
-Gather top-rated movie data from IMDb via web scraping, then clean and preprocess it for analysis.
+Data Acquisition & Cleaning:- Gather top-rated movie data from IMDb via web scraping, then clean and preprocess it for analysis.
 
-Exploratory Data Analysis (EDA)
-Analyze the dataset to unveil insights on movie ratings, genres, directors, and release years
+Exploratory Data Analysis (EDA):- Analyze the dataset to unveil insights on movie ratings, genres, directors, and release years
 
-Recommendation System Development & Web Page
-Develop a movie recommendation system and create a user-friendly web page for personalized movie searches based on preferences.
+Recommendation System Development & Web Page:- Develop a movie recommendation system and create a user-friendly web page for personalized movie searches based on preferences.
 
-Power BI Dashboard Creation
-Develop an interactive dashboard in Power BI to visualize real-time movie insights, including trends, ratings distribution, and personalized recommendations, with dynamic filters for seamless exploration by stakeholders.
+Power BI Dashboard Creation:- Develop an interactive dashboard in Power BI to visualize real-time movie insights, including trends, ratings distribution, and personalized recommendations, with dynamic filters for seamless exploration by stakeholders.
 
-
-PowerPoint Presentation
-Condense project methodologies, findings, and dashboard visuals into a concise presentation. Communicate insights and recommendations effectively, showcasing the value of the movie recommendation system and interactive dashboard for enhancing decision-making processes.
+PowerPoint Presentation:- Condense project methodologies, findings, and dashboard visuals into a concise presentation. Communicate insights and recommendations effectively, showcasing the value of the movie recommendation system and interactive dashboard for enhancing decision-making processes.
 
 
 
-# Data Collection
-
-Utilize web scraping libraries (e.g., Beautiful Soup,) to extract information on top-rated movies from IMDb.
-
-Collect data on movie titles, ratings, genres, release dates, and other relevant attributes.
 
 # Web Scraping Code
 ![im4](https://github.com/Ashraf7474/Movie_Recommendation/assets/131772000/badcd758-f4f5-409f-8637-19d5c0cc046c)
